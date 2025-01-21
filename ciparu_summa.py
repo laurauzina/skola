@@ -1,0 +1,1 @@
+print("ievadiet divus skaitļus")
