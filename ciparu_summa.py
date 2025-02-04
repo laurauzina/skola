@@ -1,1 +1,0 @@
-print("ievadiet divus skaitļus")
